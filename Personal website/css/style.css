@@ -1,0 +1,220 @@
+table,
+th,
+td {
+  border: 2px solid #3fbac2;
+}
+
+body {
+  background-color: #f4f9f9;
+}
+
+hr {
+  height: 10px;
+  background-color: #3fbac2;
+  border-style: groove;
+}
+
+h1 {
+  color: #26001b;
+  padding-bottom: 20px;
+}
+
+h2 {
+  position: static;
+  color: #26001b;
+}
+
+h3 {
+  color: #26001b;
+  font-family: system-ui;
+}
+
+img {
+  background-color: #f4f9f9;
+}
+
+p {
+  font-family: cursive;
+}
+p.display_i{
+  color: red;
+  display: inline;
+  margin:20px;
+}
+p.display_i_b{
+  color: red;
+  display: inline-block;
+  margin:30px;
+}
+
+.top-container {
+  width: 250px;
+  height: 250px;
+  background-color: red;
+  border-style: solid;
+  position: relative;
+  padding: 20px;
+  left: 588px;
+  top: 6px;
+}
+
+.middle-container {
+  width: 250px;
+  height: 250px;
+  background-color: blue;
+  border-style: solid;
+  position: relative;
+  padding: 20px;
+  right: 6px;
+  bottom: 290px;
+}
+
+.bottom-container {
+  width: 250px;
+  height: 250px;
+  background-color: green;
+  border-style: solid;
+  position: relative;
+  padding: 20px;
+  left: 292px;
+  bottom: 586px;
+}
+
+.top-container1{
+  width: 280px;
+  height: 280px;
+  background-color: red;
+  border-style: solid;
+  position: absolute;
+  padding: 10px;
+  top:4678px;
+  right:78px;
+
+}
+
+.middle-container1{
+  width: 280px;
+  height: 280px;
+  background-color: blue;
+  border-style: solid;
+  position: absolute;
+  padding: 10px;
+  top: 4372px;
+  right: 384px;
+
+}
+
+.bottom-container1{
+  width: 280px;
+  height: 280px;
+  background-color: green;
+  border-style: solid;
+  position: absolute;
+  padding: 10px;
+  top: 4066px;
+  right: 690px;
+}
+.mydreams{
+  width: 1204px;
+  height: 602px;
+  background-color: #3fbac2;
+  border-style: solid;
+  position: absolute;
+  top: 4376px;
+  left: 2px;
+}
+.performers {
+  color: #31326f;
+}
+
+.div_f {
+  border: 5px outset #3fbac2;
+  text-align: center;
+}
+
+.title {
+  font-family: verdana;
+  background-color: #3fbac2;
+}
+
+.bio {
+  border: 3px solid #e84545;
+}
+
+.img_my_f {
+  width: 350px;
+  height: 466px;
+}
+
+.music_film {
+  color: #fa1e0e;
+  font-variant: small-caps;
+  border: thick double #32a1ce;
+}
+
+.capricorn {
+  width: 70px;
+  height: 70px;
+  padding-left: 25px;
+}
+
+.wukang {
+  width: 300px;
+  height: 20px;
+}
+
+.circular {
+  border-radius: 100px;
+}
+.size{
+  width: 250px;
+  height: 200px;
+}
+.left{
+  clear: left;
+  border: 1px solid black;
+}
+.none{
+  clear: none;
+}
+.right{
+  clear:right;
+}
+.fl_left{
+  float: left;
+  margin:auto;
+}
+.fl_right{
+  float: right;
+  margin:auto;
+}
+.red{
+  border: 4px solid red;
+}
+.blue{
+  border: 4px solid blue;
+}
+.green{
+  border: 4px solid green;
+}
+
+#mypicture {
+  width: 400px;
+  height: 550px;
+}
+
+#name_surname {
+  background-color: #e84545;
+  border-radius: 100px;
+  width: 200px;
+  height: 40px;
+}
+
+#copyright-text {
+  font-size: 13px;
+}
+
+#roman_n {
+  list-style-type: upper-roman;
+  line-height: 80%;
+}
